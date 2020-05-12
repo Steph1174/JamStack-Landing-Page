@@ -1,1 +1,1 @@
-# JamStack-Landing-Page
+# JamStack-Landingpage
