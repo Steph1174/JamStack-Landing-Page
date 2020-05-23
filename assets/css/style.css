@@ -1235,7 +1235,7 @@ p, .expertises-sec .service-info-text p {
     vertical-align: middle;
     width: 40px;
     cursor: pointer;
-    background: #ffdf2b;
+    background: #9e0059;
     -moz-transition: 0.3s all ease-in-out;
     -o-transition: 0.3s all ease-in-out;
     -webkit-transition: 0.3s all ease-in-out;
@@ -1245,7 +1245,8 @@ p, .expertises-sec .service-info-text p {
       font-size: 14px;
       font-weight: 600;
       margin: 0 auto;
-      padding-top: 10px; }
+      padding-top: 10px;
+      color: white; }
 .service-sec .last .relative-div:after {
   width: 0; }
 
@@ -2023,6 +2024,10 @@ a.social-icon {
     bottom: 0; }
     .footer-sec .gototop {
       right: 20px; }
+
+  .element.style {
+    background: orange;
+  }
 
   .padding-sec-lg {
     padding-top: 100px;
