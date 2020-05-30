@@ -1564,7 +1564,7 @@ a.social-icon {
 /** BLOG PAGE **/
 /****************************/
 .blog-page .slide .slide__overlay-path {
-  fill: #ffb4b9; }
+  fill: rgb(158, 0, 89); }
 .blog-page .slide__content .container {
   padding-top: 0; }
   .blog-page .slide__content .container .slide__text {
@@ -1859,9 +1859,9 @@ a.social-icon {
     right: 15px;
     width: 211px; }
   .project-page .slider .container .slide__text {
-    padding-top: 20%; }
+    padding-top: 20%;}
 .project-page .slide .slide__overlay-path {
-  fill: #f9be00; }
+  fill: rgb(158, 0, 89); }
 .project-page .next-wrap {
   text-align: right; }
 .project-page .btn {
